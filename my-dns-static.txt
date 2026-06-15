@@ -50,3 +50,4 @@ discord.gift
 discordstatus.com
 dis.gd
 discord.co
+speedtest.net
