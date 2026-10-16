@@ -1,6 +1,5 @@
 telegram.org
 cloudflare.com
-www.pornhub.com
 pornhub.com
 pornhub.org
 phncdn.com
@@ -51,3 +50,13 @@ discordstatus.com
 dis.gd
 discord.co
 speedtest.net
+virustotal.com
+spotify.com
+spotifycdn.com
+scdn.co
+govee.com
+manyvids.com
+amazonaws.com
+cloudfront.net
+tailscale.com
+notepad-plus-plus.org
